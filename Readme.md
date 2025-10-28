@@ -14,7 +14,7 @@ This repository contains a fastfetch configuration tuned for a compact, informat
 Example:
 ```
 mkdir -p ~/.config/fastfetch
-cp /home/aditya/.mydotfiles/com.ml4w.dotfiles.stable/.config/fastfetch/fastfetch.conf ~/.config/fastfetch/fastfetch.conf
+cp /home/aditya/mydotfiles/.config/fastfetch/fastfetch.conf ~/.config/fastfetch/fastfetch.conf
 ```
 
 ## Usage

@@ -1,6 +1,6 @@
-# fastfetch — Configuration README.
+# fastfetch — Configuration README
 
-A minimal README describing the included fastfetch configuration and how to use it
+A minimal README describing the included fastfetch configuration and how to use it.
 
 ## Overview
 This repository contains a fastfetch configuration tuned for a compact, informative system summary. It prints key OS, hardware, and environment details with a small ASCII/logo and sensible defaults.
